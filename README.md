@@ -13,3 +13,4 @@ Doc, organ, post
 ABC/以字母_2-mA-s 表示
  [Sho-8o + Kas-8e]
         CS-8
+  =$3000
